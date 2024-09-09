@@ -1,0 +1,10 @@
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\bin\Debug\CodeCommentGenerator.exe.config
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\bin\Debug\CodeCommentGenerator.exe
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\bin\Debug\CodeCommentGenerator.pdb
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.csproj.AssemblyReference.cache
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.Form1.resources
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.Properties.Resources.resources
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.csproj.GenerateResource.cache
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.csproj.CoreCompileInputs.cache
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.exe
+C:\Users\kk013\source\repos\CodeCommentGenerator\CodeCommentGenerator\obj\Debug\CodeCommentGenerator.pdb
